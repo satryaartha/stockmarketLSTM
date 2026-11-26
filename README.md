@@ -17,7 +17,7 @@ Evaluation. One-step-ahead predictions on the unseen test period, measured by RM
 
 Data Description
 
-Source file: Market.csv — 112,457 rows × 8 columns, Yahoo-Finance-style daily data.
+Source file: Market.csv 112,457 rows × 8 columns, Yahoo-Finance-style daily data.
 
 Column	Meaning
 Index	Index ticker
